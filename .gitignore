@@ -1,0 +1,12 @@
+build/
+managed_components/
+.vscode/
+sdkconfig.old
+*.bin
+*.elf
+*.map
+*.log
+*.o
+*.obj
+*.d
+*.pyc
