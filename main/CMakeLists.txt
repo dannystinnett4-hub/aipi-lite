@@ -4,6 +4,7 @@ idf_component_register(
         "display.c"
         "face.c"
         "behavior.c"
+        "buttons.c"
     INCLUDE_DIRS
         "."
     REQUIRES

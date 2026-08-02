@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "aipi_lite",
-    "project_version":    "v0.1-stable-2-g95dd9d8-dirty",
+    "project_version":    "v0.1-stable-3-g7712f3e-dirty",
     "project_path":       "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.3.5",
     "build_dir":          "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite/build",
@@ -1180,7 +1180,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite/build/esp-idf/main/libmain.a",
-            "sources": [ "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite/main/aipi_lite.c", "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite/main/display.c", "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite/main/face.c", "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite/main/behavior.c" ],
+            "sources": [ "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite/main/aipi_lite.c", "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite/main/display.c", "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite/main/face.c", "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite/main/behavior.c", "C:/Espressif/frameworks/esp-idf-v5.3.5/aipi_lite/main/buttons.c" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {
