@@ -5,6 +5,7 @@ idf_component_register(
         "face.c"
         "behavior.c"
         "buttons.c"
+        "wifi_manager.c"
     INCLUDE_DIRS
         "."
     REQUIRES
