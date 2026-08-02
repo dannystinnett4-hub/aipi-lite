@@ -1,6 +1,6 @@
 idf_component_register(
     SRCS
-        "aipi_lite.c"
+        "app_main.c"
         "display.c"
         "face.c"
         "behavior.c"
