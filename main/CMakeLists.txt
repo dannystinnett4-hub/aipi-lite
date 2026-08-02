@@ -1,7 +1,7 @@
 idf_component_register(
     SRCS
-        "app_main.c"
         "aipi_lite.c"
+        "display.c"
     INCLUDE_DIRS
         "."
     REQUIRES
