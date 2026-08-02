@@ -3,6 +3,7 @@ idf_component_register(
         "aipi_lite.c"
         "display.c"
         "face.c"
+        "behavior.c"
     INCLUDE_DIRS
         "."
     REQUIRES
