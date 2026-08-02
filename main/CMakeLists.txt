@@ -2,6 +2,7 @@ idf_component_register(
     SRCS
         "aipi_lite.c"
         "display.c"
+        "face.c"
     INCLUDE_DIRS
         "."
     REQUIRES
