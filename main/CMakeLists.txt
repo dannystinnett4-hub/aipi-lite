@@ -6,6 +6,7 @@ idf_component_register(
         "behavior.c"
         "buttons.c"
         "wifi_manager.c"
+        "ota_server.c"
     INCLUDE_DIRS
         "."
     REQUIRES
